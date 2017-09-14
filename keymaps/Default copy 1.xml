@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+  <action id="CloseContent" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
+</keymap>
