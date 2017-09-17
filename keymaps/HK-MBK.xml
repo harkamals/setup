@@ -1,5 +1,11 @@
-<keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
+<keymap version="1" name="HK-MBK" parent="Mac OS X 10.5+">
   <action id="CloseContent" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="f14" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta w" />
